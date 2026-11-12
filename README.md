@@ -10,5 +10,5 @@ Paidly turns plain English into real PayPal payments. Type a payment request in 
 ## 🚀 How to Run Locally
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/paidly.git](https://github.com/YOUR_USERNAME/paidly.git)
+   git clone (https://github.com/Bhagyashri77777/paidly.git)
    cd paidly
